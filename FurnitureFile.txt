@@ -1,0 +1,14 @@
+
+
+********************************************************
+
+
+            Available Furniture number
+Total Available beds                : 75
+Total stretchers                    : 50
+Total Sterilizers                   : 50
+Total Patient Monitors              : 50
+Total Portable Oxygen Concentrators : 45
+Total chairs                        : 75
+Total rooms                         : 75
+Total ambulance                     : 75

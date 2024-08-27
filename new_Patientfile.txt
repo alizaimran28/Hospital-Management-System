@@ -1,0 +1,9 @@
+
+Patient Name is :  Eman Abid
+Disease is :  Fever
+
+Patient Name is :  Eman Abid
+Disease is :  Corona
+
+Patient Name is :  Eman 
+Disease is :  Eye

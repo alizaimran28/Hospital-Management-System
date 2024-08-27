@@ -1,0 +1,16 @@
+
+********************************************************
+           LIST OF DOCTOR IN HOSPITALS
+********************************************************
+Morning Nutritionist Doctor :     Eman Abid
+Evening Nutritionist Doctor :     Aneeba Farooq
+Morning dentist Doctor :          Malaika Razzaq
+Evening dentist Doctor :          Areeba Amer
+Morning child specialist Doctor : Tariq Mehmood
+Evening child specialist Doctor : Abid Mehmood
+Morning ENT Doctor :              Abdullah Abid
+Evening ENT Doctor :              Rohan Ahmed
+Morning Gynocologist Doctor :     Saniya Kashif
+Evening Gynocologist Doctor :     Ayisha Shamas
+Morning optometrist Doctor :      Ahmed Abid
+Evening optometrist Doctor :      Subhan Abid

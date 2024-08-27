@@ -1,0 +1,21 @@
+
+
+********************************************************
+
+List of Sweepers in hospital is : 
+Umair
+Uzair
+Zain
+
+
+********************************************************
+
+List of Receptionist in hospital is : 
+Asif
+Hasaan
+Atif
+
+Updated List of Sweepers in hospital is : 
+Zaina
+Uzair
+Zain

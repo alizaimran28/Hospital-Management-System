@@ -1,0 +1,37 @@
+
+********************************************************
+           Patient RECORD IN HOSPITALS
+********************************************************
+
+Patient Name is : Abdullah Abid
+Disease is :  Eye infection
+
+Patient Name is : Ali Khan
+Disease is :  Eye disease
+
+Patient Name is : Alia Mehar
+Disease is :  Tooth disease
+
+Patient Name is : Alina Choudhary
+Disease is :  Throat infection
+
+Patient Name is : Arham Asjad
+Disease is :  Stomach Infection
+
+Patient Name is : Azaan Shahid
+Disease is :  Throat infection
+
+Patient Name is : Furqan Khan
+Disease is :  Nose infection
+
+Patient Name is : Rayan Shan
+Disease is :  Bone infection
+
+Patient Name is : Roman Anees
+Disease is :  Tooth Infection
+
+Patient Name is : Shubham Khan
+Disease is :  eye weekness
+
+Patient Name is : Subhan Abid
+Disease is :  Nose infection

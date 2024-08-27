@@ -1,0 +1,12 @@
+
+
+********************************************************
+
+             Room Section
+
+********************************************************
+ICU room numbers are        : 25
+Emergency room numbers are  : 25
+Doctors room numbers are    : 12
+Male washroom numbers are   : 25
+Female washroom numbers are : 25

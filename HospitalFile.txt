@@ -1,0 +1,9 @@
+
+
+********************************************************
+               Website of Hospital
+********************************************************
+
+Hospital name is :       PMC
+Address of Hospital is : Magtown
+Contact Number is :      +923002928999

@@ -1,0 +1,12 @@
+
+
+********************************************************
+
+
+             Pharmacy Material 
+
+The number of Tablets Medicine are  : 120
+The numbers of Syrups Medicine are  : 100
+The number of Injections are        : 73
+The number of vitamins are          : 40
+The number of Disposable gloves are : 40 packets

@@ -1,0 +1,27 @@
+Total List of Male and Female Nurse that helps with Doctors in hospital is : 
+Alina
+Aneela
+Zain
+Aqsa
+Atiya
+Arfa
+Ali
+Asma
+Nida
+Sadia
+Hamza
+Sayeda
+
+Updated List of Nurse in hospital is : 
+Alina
+Aneela
+Zain
+Aqsa
+Atiya
+Arfa
+Ali
+Asma
+Nida
+Sadia
+Waqas
+Sayeda
